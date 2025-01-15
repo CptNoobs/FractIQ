@@ -5,7 +5,7 @@
 
 ## Overview 🌐📊🔄
 
-Markets often appear chaotic, but hidden beneath the surface are repeating patterns and fractals that, when decoded, can reveal powerful insights.  
+Markets often appear chaotic, but hidden beneath the surface are repeating patterns and fractals that, when decoded, can reveal powerful data-driven insights.  
   
 This project is driven by my curiosity to see if those patterns can be harnessed into reliable, actionable strategies. I have an idea to build an advanced AI-driven trading bot that could leverage **Elliott Wave theory**, **Fibonacci levels**, **volume analysis**, **funding rates**, and **fractals** to execute trades.  
   
