@@ -7,9 +7,9 @@
 
 Markets often appear chaotic, but hidden beneath the surface are repeating patterns and fractals that, when decoded, can reveal powerful insights.  
   
-This project is driven by my curiosity to see if those patterns can be harnessed into reliable, actionable strategies. Here is my attempt to build an advanced AI-driven trading bot that leverages **Elliott Wave theory**, **Fibonacci levels**, **volume analysis**, **funding rates**, and **fractals** to execute trades.  
+This project is driven by my curiosity to see if those patterns can be harnessed into reliable, actionable strategies. I have an idea to build an advanced AI-driven trading bot that could leverage **Elliott Wave theory**, **Fibonacci levels**, **volume analysis**, **funding rates**, and **fractals** to execute trades.  
   
-My vision is to create something that not only automates trading but also improves continuously by learning from the market itself. 📈🌄📊
+My vision is to explore how a system can not only automate trading but also improve continuously by learning from the market itself. 📈🌄📊
 
 This system will:
 
@@ -104,7 +104,7 @@ This is where the AI magic happens. The idea is to use machine learning models, 
 
 #### **Actionable Implementation**:
 
-For sequential data like price movements, LSTM networks work well. Here's a basic implementation:
+For sequential data like price movements, I plan to explore using LSTM networks or similar time-series models. Here's an idea of how an implementation might look:
 
 ```python
 from tensorflow.keras.models import Sequential
@@ -134,10 +134,10 @@ Once the predictions are ready, the next step is to decide how to act on them. I
 
 #### **Actionable Implementation**:
 
-I've been experimenting with `stable-baselines3` for reinforcement learning:
+I want to explore reinforcement learning using frameworks like `stable-baselines3`:
 
 ```python
-from stable-baselines3 import PPO
+from stable_baselines3 import PPO
 
 model = PPO('MlpPolicy', env, verbose=1)
 model.learn(total_timesteps=10000)
@@ -272,3 +272,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Contact 🌄💡📚
 
 Feel free to reach out if you have questions or want to collaborate! You can contact me at [Your Email]. 🔄🌐📚
+
