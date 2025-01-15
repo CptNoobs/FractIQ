@@ -1,5 +1,6 @@
+![GitHub Banner](https://github.com/user-attachments/assets/e23c7cf0-a997-4ca2-b642-0ca1c682daf3)
 
-# AI-Driven Trading System 🌟💡🚀
+# 🌟💡🚀
 
 ---
 
