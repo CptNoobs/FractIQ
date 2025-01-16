@@ -2,7 +2,9 @@
 # FractIQ Full Development Documentation
 
 ## Abstract
-FractIQ is a next-generation modular trading platform designed to integrate advanced fractal analysis, AI-driven insights, and probabilistic risk management strategies for real-time financial markets. Leveraging NVIDIA RTX 3080 GPUs and OpenAI's APIs within a Windows 11 and VSCode environment, this system aims to predict market behaviors with high accuracy while minimizing operational costs. By combining computational finance theories such as Elliott Wave analysis, Fibonacci retracements, fractal geometry, and additional market data such as volume, order book (L2), RSI ranges, pattern breaks, and funding rates, FractIQ provides traders with robust, data-driven decision-making tools.
+A next-generation modular trading platform designed to integrate advanced fractal analysis, AI-driven insights, and probabilistic risk management strategies for real-time financial markets. Leveraging NVIDIA RTX GPUs and OpenAI's APIs within a Windows 11 and VSCode environment, this system performs data-driven market behavior prefidction with high accuracy while minimizing operational costs. 
+
+By combining computational finance theories such as Elliott Wave analysis, Fibonacci retracements, fractal geometry, and additional market data such as volume, order book (L2), RSI ranges, pattern breaks, and funding rates, FractIQ provides traders with robust, data-driven decision-making tools.
 
 This document serves as a guide to develop FractIQ, focusing on actionable steps for coding and system development. The goal is to structure the development process progressively, from environment setup to full system integration.
 
